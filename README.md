@@ -1,4 +1,16 @@
 # Weather_Forecasting_Web_Application
+
+![image alt](https://github.com/MohammedNawaz07/Weather_Forecasting_Web_Application/blob/623eb8c0fb6e89355015b150c40773a4f2d73ab9/weather-app-image.png)
+
+
+
+
+
+
+
+
+
+
 The Weather Forecasting Web Application provides real-time weather updates using API integration. Built with HTML, CSS, and JavaScript in VS Code, it displays data like temperature, humidity, and wind speed. The interface is user-friendly and responsive for seamless weather checks.
 
 
