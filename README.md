@@ -4,14 +4,14 @@ The Weather Forecasting Web Application provides real-time weather updates using
 
 ![image alt](https://github.com/MohammedNawaz07/Weather_Forecasting_Web_Application/blob/623eb8c0fb6e89355015b150c40773a4f2d73ab9/weather-app-image.png)
 
-# 📌 Overview
+📌 Overview
 
 The Weather Forecasting Web App provides real-time weather updates and forecasts for any city worldwide. It fetches live weather data using APIs and displays it with an intuitive, user-friendly interface.
 
 This project demonstrates the integration of web technologies, APIs, and responsive UI design to deliver accurate weather insights.
 
 
-# ✨ Features
+ ✨ Features
 
 🌍 Search weather by city name
 
@@ -26,9 +26,9 @@ This project demonstrates the integration of web technologies, APIs, and respons
 📍 Location-based weather (using geolocation API, optional)
 
 
-# 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
-# Frontend
+ Frontend
 
 * HTML5, CSS3, JavaScript
 
@@ -36,16 +36,16 @@ This project demonstrates the integration of web technologies, APIs, and respons
 
 * Tailwind CSS / Bootstrap for styling
 
-# Backend (optional)
+ Backend (optional)
 
 * Node.js & Express (if used for server-side API calls)
 
-# API Used
+ API Used
 
 OpenWeatherMap API
  (for weather data)
 
-# Tools
+ Tools
 
 * VS Code (Development IDE)
 
@@ -54,7 +54,7 @@ OpenWeatherMap API
 * Netlify / Vercel / GitHub Pages (Deployment)
 
 
-# 📂 Project Structure
+ 📂 Project Structure
 
 weather-app/
 
@@ -72,7 +72,7 @@ weather-app/
 
 
 
-# 🚀 Installation & Setup
+ 🚀 Installation & Setup
 
 1. Clone Repository
 git clone https://github.com/your-username/weather-app.git
@@ -96,7 +96,7 @@ If React:
 npm start
 
 
-# 📊 Example API Response (OpenWeatherMap)
+ 📊 Example API Response (OpenWeatherMap)
 
 {
   "weather": [
@@ -114,7 +114,7 @@ npm start
 
 
 
-# 📌 Future Enhancements
+ 📌 Future Enhancements
 
 📍 Auto-detect location using geolocation API
 
@@ -126,7 +126,7 @@ npm start
 
 
 
-# 📜 License
+ 📜 License
 
 This project is licensed under the MIT License – free to use, modify, and share.
 
